@@ -2,7 +2,6 @@ import pandas as pd
 from PySide6.QtWidgets import QApplication, QFileDialog, QMainWindow, QPushButton, QHBoxLayout, QWidget
 from PySide6.QtCore import QRect, QPropertyAnimation
 from PySide6.QtCore import Qt
-
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
