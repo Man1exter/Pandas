@@ -1,3 +1,5 @@
-**Converting files from csv to html and test directory to use**
+**Testing, Implementing, Learning, Having fun together**
 
-**Converting files from csv to html and test directory to use**
+**Creating programs through learning**
+
+**Gaining experience and learning new functionalities**
